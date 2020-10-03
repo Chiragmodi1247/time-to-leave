@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/timetoleave.png" alt="Time to Leave Logo">
 
-  <p>Log work hours and get notified when it's time to leave the office and start to live</p>
+  <p>Log work hours and get notified when it's time to leave the office and start to live, first commit</p>
 
   <br/>
 
